@@ -1,4 +1,4 @@
-# HR_Analytics_Job_Prediction_Project
+# Salifort_Motors_project
 
 <img width="936" alt="Screenshot 2024-06-14 at 8 20 17 PM" src="https://github.com/loverui129/HR_Analytics_Job_Prediction/assets/167585985/f239c60b-90b7-4b35-8fd1-812cedb7055e">
 
